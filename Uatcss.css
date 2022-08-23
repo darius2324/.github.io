@@ -1,0 +1,27 @@
+h1{ text-align: center;
+        color: yellow;
+        
+    }
+p{ 
+    text-align: left;
+    color: black;
+ }
+.coolbtns{ 
+    border-radius: 20%;
+    align-items: center;
+      cursor: pointer;
+    padding-bottom: 16px 32px;
+    display: inline-block;
+   background-image: linear-gradient(pink, rgb(0, 225, 127));
+}
+body{
+    background-image: linear-gradient(pink,orange,rgb(0, 215, 239));
+}
+.coolbtn{
+    border-radius: 20%;
+    align-items: center;
+      cursor: pointer;
+    padding-bottom: 16px 32px;
+    display: inline-block;
+    background-image: linear-gradient(purple,white);
+}
